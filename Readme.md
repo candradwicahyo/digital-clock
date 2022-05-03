@@ -10,16 +10,14 @@ sebuah program sederhana untuk menampilkan sebuah jam digital
 
 ### lainnya
 
-* font
-  * Roboto
-  * Poppins
-
+* font (Poppins & Roboto)
 * handphone
-* code editor
-  * Acode (gratis)
- 
-* browser
-  * Google Chrome
+* code editor (Acode)
+* browser (Google Chrome)
+* edit foto (Pixellab)
 
-* edit foto
-  * Pixellab
+### preview
+
+![image](https://github.com/candradwicahyo/digital-clock/blob/master/20220503_100430.jpg)
+
+> dibuat oleh **candra dwi cahyo**
