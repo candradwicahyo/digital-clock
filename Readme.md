@@ -16,6 +16,10 @@ sebuah program sederhana untuk menampilkan sebuah jam digital
 * browser (Google Chrome)
 * edit foto (Pixellab)
 
+### live demo
+
+* lihat live demo? [tekan link ini](https://candradwicahyo.github.io/digital-clock)
+
 ### preview
 
 ![image](https://github.com/candradwicahyo/digital-clock/blob/master/20220503_100430.jpg)
